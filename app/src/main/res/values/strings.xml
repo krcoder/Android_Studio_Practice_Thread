@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThreadHandler</string>
+    <string name="title_activity_sub">SubActivity</string>
+</resources>
